@@ -23,5 +23,8 @@ This project presents an interactive Power BI dashboard built using Instagram An
 - Instagram_Analytics_Dashboard.pbix 
 - Dashboard Screenshots
 
+## Added report 
+- report of the instagram analytics dashboard to understand the insights and also uploaded the business recommendation for the instagram
+
 ## Author
 **Harmandeep Kaur**
